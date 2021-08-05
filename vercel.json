@@ -10,6 +10,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
+        "APP_KEY": "base64:NYbuzXa6IUIYIQi0gknJpom+DeSVtboZpTx5tsAvsWI=",
         "APP_URL": "https://vercel-laravel-woad.vercel.app",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
